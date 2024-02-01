@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Warda
+- 👋 Hi, I’m a QA / SDET
 - 👀 I’m interested in  Selenium, Cucumber, Junit, TestNG, Maven,SQL, JDBC, Rest Assured Libraries...
 - 🌱 I’m currently learning Jmeter and Appium
 - 💞️ I’m looking to collaborate on ...Automation Framework, New and Excited roles 
